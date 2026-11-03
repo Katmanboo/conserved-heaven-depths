@@ -1,0 +1,29 @@
+Copyright (c) 2026 Robbie [Last Name]. All rights reserved.
+
+Conserved Heaven, including its source code, artwork, text, world-generation
+systems, game design, and all other content in this repository (the
+"Software"), is the exclusive property of the copyright holder.
+
+You are permitted to:
+  - Play the Software in a web browser through its official hosted page.
+
+You are NOT permitted to, without prior written permission from the
+copyright holder:
+  - Copy, download for redistribution, or mirror the Software or any part
+    of it.
+  - Modify, adapt, translate, or create derivative works based on the
+    Software.
+  - Re-upload, re-host, sell, sublicense, or otherwise distribute the
+    Software, in whole or in part, on any website, platform, or app store.
+  - Use any part of the source code, assets, or systems in other projects.
+  - Remove or alter this notice or any copyright notices in the Software.
+
+Viewing this repository's source code on GitHub does not grant any license
+to use, copy, or distribute it. Making this repository public is done only
+so the game can be hosted and played.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+For permission requests, contact: [your email or contact link]
